@@ -1,27 +1,27 @@
-# Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
+# Clone do Messenger em tempo real: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher
 
 ![Copy of Copy of Fullstack Twitter Clone (1)](https://user-images.githubusercontent.com/23248726/236631198-90414da5-ee43-46a9-8898-70b003bcd83d.png)
 
-Key Features:
+Características principais:
 
-- Real-time messaging using Pusher
-- Message notifications and alerts
-- Tailwind design for sleek UI
-- Tailwind animations and transition effects
-- Full responsiveness for all devices
-- Credential authentication with NextAuth
-- Google authentication integration
-- Github authentication integration
-- File and image upload using Cloudinary CDN
-- Client form validation and handling using react-hook-form
-- Server error handling with react-toast
-- Message read receipts
-- Online/offline user status
-- Group chats and one-on-one messaging
-- Message attachments and file sharing
-- User profile customization and settings
-- Handling relations between Server and Child components in a real-time environment
-- Creating and managing chat rooms and channels
+- Mensagens em tempo real usando Pusher
+- Notificações e alertas de mensagens
+- Design Tailwind para interface de usuário elegante
+- Animações Tailwind e efeitos de transição
+- Capacidade de resposta total para todos os dispositivos
+- Autenticação de credenciais com NextAuth
+- Integração de autenticação do Google
+- Integração de autenticação Github
+- Upload de arquivos e imagens usando Cloudinary CDN
+- Validação e manipulação de formulários de cliente usando react-hook-form
+- Tratamento de erros do servidor com react-toast
+- Recibos de leitura de mensagens
+- Status do usuário online/offline
+- Bate-papos em grupo e mensagens individuais
+- Anexos de mensagens e compartilhamento de arquivos
+- Personalização e configurações do perfil do usuário
+- Manipulação de relações entre componentes Servidor e Filho em um ambiente de tempo real
+- Criação e gerenciamento de salas de bate-papo e canais
 
 ### Prerequisites
 
